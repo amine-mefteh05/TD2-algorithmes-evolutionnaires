@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Exercice 2
+Exercice2_Operation_Transport/__pycache__/
+
+# Exercice 3
+Exercice3_Voyageur/__pycache__/
